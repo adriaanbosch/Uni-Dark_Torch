@@ -1,0 +1,14 @@
+Remake Maps
+
+Enemies only Chase when in range
+
+Draw Torch
+
+Proper Win Screen
+
+Proper Game Over
+
+Player Lives
+
+Player Spawn on Start
+

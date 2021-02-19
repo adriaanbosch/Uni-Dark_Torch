@@ -1,0 +1,2151 @@
+Revision: 1213
+Author: wqr8015
+Date: Friday, 23 October 2020 3:56:40 pm
+Message:
+
+----
+Modified : /teams/MKEA/Docs/Dev log - Maaka Wong.docx
+
+Revision: 1212
+Author: wqr8015
+Date: Friday, 23 October 2020 3:54:48 pm
+Message:
+
+----
+Deleted : /teams/MKEA/Game/Known Issues.docx
+Modified : /teams/MKEA/Working Directory.txt
+
+Revision: 1209
+Author: wqr8015
+Date: Friday, 23 October 2020 3:37:08 pm
+Message:
+changed my dev log word doc into a pdf,
+created the Game/ reademe.txt file added required authors and game instructions / controls 
+Added to known Issues
+
+----
+Added : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.pdf
+Modified : /teams/MKEA/Docs/SVN Log.txt
+Added : /teams/MKEA/Game/KnownIssues.docx
+Added : /teams/MKEA/Game/readme.txt
+
+Revision: 1205
+Author: txj9073
+Date: Friday, 23 October 2020 3:22:44 pm
+Message:
+lib files
+----
+Added : /teams/MKEA/Lib/API-FMOD
+Added : /teams/MKEA/Lib/API-FMOD/Logo
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo Black - White Background.eps
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo Black - White Background.png
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo Black - White Background.svg
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo Guidelines.pdf
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo White - Black Background.eps
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo White - Black Background.png
+Added : /teams/MKEA/Lib/API-FMOD/Logo/FMOD_LOGOS/FMOD Logo White - Black Background.svg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/$PLUGINSDIR
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/$PLUGINSDIR/InstallOptions.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/$PLUGINSDIR/ioSpecial.ini
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/$PLUGINSDIR/modern-header.bmp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/$PLUGINSDIR/modern-wizard.bmp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/3d.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/asyncio.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/3d.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/asyncio.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/channel_groups.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/convolution_reverb.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/dsp_custom.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/dsp_effect_per_speaker.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/dsp_inspector.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/effects.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/fmod.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/fmod_codec_raw.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/fmod_distance_filter.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/fmod_gain.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/fmod_noise.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/gapless_playback.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/generate_tone.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/granular_synth.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/load_from_memory.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/multiple_speaker.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/multiple_system.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/net_stream.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/output_mp3.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/play_sound.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/play_stream.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/record.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/record_enumeration.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/bin/user_created_sound.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/channel_groups.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/common.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/common.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/common_platform.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/common_platform.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/convolution_reverb.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/dsp_custom.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/dsp_effect_per_speaker.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/dsp_inspector.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/effects.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/gapless_playback.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/generate_tone.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/granular_synth.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/load_from_memory.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/c.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/d.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/drumloop.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/e.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular/truck_idle_off_01.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular/truck_idle_off_02.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular/truck_idle_off_03.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular/truck_idle_off_04.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular/truck_idle_off_05.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/granular/truck_idle_off_06.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/jaguar.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/singing.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/standrews.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/stereo.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/swish.wav
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/wave.mp3
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/media/wave_vorbis.fsb
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/multiple_speaker.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/multiple_system.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/net_stream.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/play_sound.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/play_stream.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/BladeMP3EncDLL.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/fmod_codec_raw.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/fmod_distance_filter.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/fmod_gain.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/fmod_noise.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/lame_enc.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/lame_enc64.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/plugins/output_mp3.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/record.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/record_enumeration.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/user_created_sound.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/asyncio.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/asyncio.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/channel_groups.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/channel_groups.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/convolution_reverb.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/convolution_reverb.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/dsp_custom.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/dsp_custom.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/dsp_effect_per_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/dsp_effect_per_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/dsp_inspector.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/dsp_inspector.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/effects.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/effects.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/fmod_codec_raw.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/fmod_distance_filter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/fmod_gain.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/fmod_noise.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/gapless_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/gapless_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/generate_tone.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/generate_tone.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/granular_synth.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/granular_synth.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/load_from_memory.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/load_from_memory.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/multiple_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/multiple_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/multiple_system.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/multiple_system.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/net_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/net_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/output_mp3.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/play_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/play_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/play_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/play_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/record.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/record.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/record_enumeration.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/record_enumeration.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/user_created_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2010/user_created_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/asyncio.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/asyncio.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/channel_groups.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/channel_groups.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/convolution_reverb.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/convolution_reverb.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/dsp_custom.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/dsp_custom.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/dsp_effect_per_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/dsp_effect_per_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/dsp_inspector.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/dsp_inspector.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/effects.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/effects.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/fmod_codec_raw.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/fmod_distance_filter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/fmod_gain.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/fmod_noise.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/gapless_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/gapless_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/generate_tone.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/generate_tone.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/granular_synth.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/granular_synth.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/load_from_memory.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/load_from_memory.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/multiple_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/multiple_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/multiple_system.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/multiple_system.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/net_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/net_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/output_mp3.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/play_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/play_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/play_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/play_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/record.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/record.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/record_enumeration.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/record_enumeration.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/user_created_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2012/user_created_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/asyncio.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/asyncio.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/channel_groups.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/channel_groups.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/convolution_reverb.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/convolution_reverb.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/dsp_custom.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/dsp_custom.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/dsp_effect_per_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/dsp_effect_per_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/dsp_inspector.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/dsp_inspector.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/effects.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/effects.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/fmod_codec_raw.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/fmod_distance_filter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/fmod_gain.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/fmod_noise.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/gapless_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/gapless_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/generate_tone.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/generate_tone.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/granular_synth.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/granular_synth.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/load_from_memory.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/load_from_memory.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/multiple_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/multiple_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/multiple_system.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/multiple_system.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/net_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/net_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/output_mp3.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/play_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/play_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/play_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/play_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/record.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/record.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/record_enumeration.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/record_enumeration.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/user_created_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2015/user_created_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/asyncio.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/asyncio.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/channel_groups.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/channel_groups.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/convolution_reverb.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/convolution_reverb.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/dsp_custom.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/dsp_custom.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/dsp_effect_per_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/dsp_effect_per_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/dsp_inspector.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/dsp_inspector.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/effects.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/effects.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/fmod_codec_raw.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/fmod_distance_filter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/fmod_gain.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/fmod_noise.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/gapless_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/gapless_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/generate_tone.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/generate_tone.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/granular_synth.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/granular_synth.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/load_from_memory.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/load_from_memory.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/multiple_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/multiple_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/multiple_system.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/multiple_system.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/net_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/net_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/output_mp3.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/play_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/play_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/play_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/play_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/record.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/record.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/record_enumeration.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/record_enumeration.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/user_created_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2017/user_created_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/asyncio.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/asyncio.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/channel_groups.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/channel_groups.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/convolution_reverb.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/convolution_reverb.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/dsp_custom.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/dsp_custom.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/dsp_effect_per_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/dsp_effect_per_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/dsp_inspector.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/dsp_inspector.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/effects.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/effects.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/fmod_codec_raw.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/fmod_distance_filter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/fmod_gain.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/fmod_noise.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/gapless_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/gapless_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/generate_tone.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/generate_tone.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/granular_synth.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/granular_synth.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/load_from_memory.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/load_from_memory.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/multiple_speaker.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/multiple_speaker.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/multiple_system.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/multiple_system.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/net_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/net_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/output_mp3.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/play_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/play_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/play_stream.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/play_stream.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/record.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/record.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/record_enumeration.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/record_enumeration.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/user_created_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/examples/vs2019/user_created_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod.cs
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod.hpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_codec.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_common.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_dsp.cs
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_dsp.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_dsp_effects.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_errors.cs
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_errors.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/inc/fmod_output.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x64
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x64/fmod.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x64/fmodL.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x64/fmodL_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x64/fmod_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x86
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x86/fmod.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x86/fmodL.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x86/fmodL_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/core/lib/x86/fmod_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/inc
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/inc/fsbank.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/inc/fsbank_errors.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x64
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x64/fsbank.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x64/fsbank_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x64/libfsbvorbis64.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x86
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x86/fsbank.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x86/fsbank_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/fsbank/lib/x86/libfsbvorbis.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/3d.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/3d_multi.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/3d.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/3d_multi.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/event_parameter.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/fmod.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/fmodstudio.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/load_banks.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/music_callbacks.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/objectpan.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/programmer_sound.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/recording_playback.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/bin/simple_event.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/common.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/common.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/common_platform.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/common_platform.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/event_parameter.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/load_banks.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/640148main_APU Shutdown.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/640165main_Lookin At It.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/640166main_MECO.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/640169main_Press to ATO.ogg
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Dialogue_CN.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Dialogue_EN.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Dialogue_JP.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Master.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Master.strings.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Music.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/SFX.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/VO.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/Vehicles.bank
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/media/programmer_sound.fsb
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/music_callbacks.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/objectpan.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/programmer_sound.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/recording_playback.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/simple_event.cpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/3d_multi.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/3d_multi.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/event_parameter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/event_parameter.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/load_banks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/load_banks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/music_callbacks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/music_callbacks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/objectpan.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/objectpan.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/programmer_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/programmer_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/recording_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/recording_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/simple_event.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2010/simple_event.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/3d_multi.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/3d_multi.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/event_parameter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/event_parameter.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/load_banks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/load_banks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/music_callbacks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/music_callbacks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/objectpan.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/objectpan.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/programmer_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/programmer_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/recording_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/recording_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/simple_event.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2012/simple_event.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/3d_multi.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/3d_multi.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/event_parameter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/event_parameter.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/load_banks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/load_banks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/music_callbacks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/music_callbacks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/objectpan.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/objectpan.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/programmer_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/programmer_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/recording_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/recording_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/simple_event.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2015/simple_event.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/3d_multi.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/3d_multi.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/event_parameter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/event_parameter.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/load_banks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/load_banks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/music_callbacks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/music_callbacks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/objectpan.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/objectpan.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/programmer_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/programmer_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/recording_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/recording_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/simple_event.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2017/simple_event.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/3d.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/3d.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/3d_multi.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/3d_multi.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/event_parameter.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/event_parameter.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/examples.sln
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/load_banks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/load_banks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/music_callbacks.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/music_callbacks.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/objectpan.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/objectpan.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/programmer_sound.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/programmer_sound.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/recording_playback.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/recording_playback.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/simple_event.vcxproj
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/examples/vs2019/simple_event.vcxproj.filters
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/inc
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/inc/fmod_studio.cs
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/inc/fmod_studio.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/inc/fmod_studio.hpp
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/inc/fmod_studio_common.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x64
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x64/fmodstudio.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x64/fmodstudioL.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x64/fmodstudioL_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x64/fmodstudio_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x86
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x86/fmodstudio.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x86/fmodstudioL.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x86/fmodstudioL_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/api/studio/lib/x86/fmodstudio_vc.lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/FMOD Profiler.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/Qt5Core.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/Qt5Gui.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/Qt5Network.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/Qt5Widgets.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/Qt5XML.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/fsbank.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/fsbankcl.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/libEGL.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/libGLESv2.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/libfsbvorbis.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/msvcp110.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/msvcr110.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/platforms
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/platforms/qwindows.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/Qt5Core.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/Qt5Gui.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/Qt5Widgets.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/Qt5XML.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/fsbank.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/fsbankcl.exe
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/libEGL.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/libGLESv2.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/libfsbvorbis64.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/msvcp110.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/msvcr110.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/platforms
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/bin/x64/platforms/qwindows.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-channel.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-channelcontrol.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-channelgroup.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-common-dsp-effects.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-common.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-dsp.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-dspconnection.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-geometry.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-platform-android.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-platform-ios.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-platform-uwp.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-reverb3d.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-sound.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-soundgroup.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api-system.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-api.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/core-guide.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/fsbank-api.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/glossary.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/3d-reverb.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/3d-studio-1.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/3d-studio-2.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/3d-studio-3.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dsp-fft-blackman.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dsp-fft-blackmanharris.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dsp-fft-hamming.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dsp-fft-hanning.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dsp-fft-rectangle.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dsp-fft-triangle.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img001.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img002.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img003.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img004.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img005.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img006.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img007.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img008.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img009.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img010.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img011.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img012.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img013.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img014.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/dspnet-img015.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/mpeg-frames.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/multi-channel-mpeg.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/samples-bytes-milliseconds.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/studio-bank-layout.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/studio-thread-async.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/studio-thread-sync.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/images/virtual-dspgraph.png
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-android.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-html5.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-ios.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-linux.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-mac.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-uwp.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms-windows.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/platforms.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/plugin-api-codec.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/plugin-api-dsp.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/plugin-api-output.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/plugin-api.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/scripts
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/scripts/language-selector.js
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-bank.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-bus.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-commandreplay.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-common.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-eventdescription.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-eventinstance.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-system.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api-vca.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-api.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/studio-guide.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/style
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/style/DINWeb-Medium.woff
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/style/DINWeb.woff
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/style/code_highlight.css
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/style/docs.css
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/welcome-revision-history.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/welcome-whats-new-108.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/welcome-whats-new-109.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/welcome-whats-new-110.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/welcome-whats-new-200.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/welcome.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-3d-reverb.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-3d-sounds.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-asynchronous-io.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-cpu-performance.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-dsp-architecture.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-dsp-plugin-api.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-getting-started.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-handle-system.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-memory-management.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-non-blocking-sound-creation.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-spatial-audio.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-studio-3d-events.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-studio-threads.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-terminology.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-threads.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-transitioning-from-fmodex.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-using-multiple-reverbs.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers-virtual-voices.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/FMOD API User Manual/white-papers.html
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/LICENSE.TXT
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/doc/revision.txt
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/inc
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/inc/RoomProperties.h
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/lib
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/lib/x64
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/lib/x64/resonanceaudio.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/lib/x86
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/lib/x86/resonanceaudio.dll
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/license.txt
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/plugins/resonance_audio/readme.txt
+Added : /teams/MKEA/Lib/API-FMOD/fmodstudioapi20011win-installer/uninstall.exe.nsis
+Added : /teams/MKEA/Lib/API-SDL
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/BUGS.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/COPYING.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/README-SDL.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/README.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/WhatsNew.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-android.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-cmake.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-directfb.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-dynapi.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-emscripten.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-gesture.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-hg.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-ios.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-linux.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-macosx.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-nacl.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-pandora.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-platforms.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-porting.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-psp.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-raspberrypi.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-touch.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-wince.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-windows.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README-winrt.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/README.md
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/docs/doxyfile
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_assert.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_atomic.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_audio.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_bits.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_blendmode.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_clipboard.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config.h.cmake
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config.h.in
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_android.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_iphoneos.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_macosx.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_macosx.h.orig
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_minimal.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_pandora.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_psp.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_windows.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_winrt.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_config_wiz.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_copying.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_cpuinfo.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_egl.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_endian.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_error.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_events.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_filesystem.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_gamecontroller.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_gesture.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_haptic.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_hints.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_joystick.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_keyboard.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_keycode.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_loadso.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_log.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_main.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_messagebox.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_metal.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_mouse.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_mutex.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_name.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengl.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengl_glext.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengles.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengles2.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengles2_gl2.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengles2_gl2ext.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengles2_gl2platform.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_opengles2_khrplatform.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_pixels.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_platform.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_power.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_quit.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_rect.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_render.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_revision.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_rwops.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_scancode.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_sensor.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_shape.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_stdinc.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_surface.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_system.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_syswm.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_assert.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_common.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_compare.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_crc32.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_font.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_fuzzer.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_harness.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_images.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_log.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_md5.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_memory.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_test_random.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_thread.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_timer.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_touch.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_types.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_version.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_video.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/SDL_vulkan.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/begin_code.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/include/close_code.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x64
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x64/SDL2.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x64/SDL2.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x64/SDL2main.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x64/SDL2test.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x86
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x86/SDL2.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x86/SDL2.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x86/SDL2main.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2-devel-2.0.12-VC/SDL2-2.0.12/lib/x86/SDL2test.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/CHANGES.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/COPYING.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/README.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/include
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/include/SDL_image.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/LICENSE.jpeg.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/LICENSE.png.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/LICENSE.tiff.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/LICENSE.webp.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/LICENSE.zlib.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/SDL2_image.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/SDL2_image.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/libjpeg-9.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/libpng16-16.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/libtiff-5.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/libwebp-7.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x64/zlib1.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/LICENSE.jpeg.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/LICENSE.png.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/LICENSE.tiff.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/LICENSE.webp.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/LICENSE.zlib.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/SDL2_image.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/SDL2_image.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/libjpeg-9.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/libpng16-16.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/libtiff-5.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/libwebp-7.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_image-devel-2.0.5-VC/SDL2_image-2.0.5/lib/x86/zlib1.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/CHANGES.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/COPYING.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/README.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/include
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/include/SDL_ttf.h
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64/LICENSE.freetype.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64/LICENSE.zlib.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64/SDL2_ttf.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64/SDL2_ttf.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64/libfreetype-6.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x64/zlib1.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86/LICENSE.freetype.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86/LICENSE.zlib.txt
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86/SDL2_ttf.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86/SDL2_ttf.lib
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86/libfreetype-6.dll
+Added : /teams/MKEA/Lib/API-SDL/SDL2_ttf-devel-2.0.15-VC/SDL2_ttf-2.0.15/lib/x86/zlib1.dll
+
+Revision: 1203
+Author: wqr8015
+Date: Friday, 23 October 2020 3:18:45 pm
+Message:
+had to readd the SplashScreen as somewhere along the development it was deleted / removed during a merge
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+
+Revision: 1202
+Author: txj9073
+Date: Friday, 23 October 2020 3:09:32 pm
+Message:
+map changes
+----
+Modified : /teams/MKEA/Source/Framework/map.h
+
+Revision: 1201
+Author: txj9073
+Date: Friday, 23 October 2020 3:08:12 pm
+Message:
+changed trap location
+----
+Modified : /teams/MKEA/Source/Framework/map.h
+
+Revision: 1196
+Author: wqr8015
+Date: Friday, 23 October 2020 2:56:32 pm
+Message:
+signed coversheet, added to dev log
+----
+Modified : /teams/MKEA/Docs/Coversheet - MKEA.pdf
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+
+Revision: 1195
+Author: txj9073
+Date: Friday, 23 October 2020 2:55:58 pm
+Message:
+added file
+----
+Added : /teams/MKEA/Game/Known Issues.docx
+
+Revision: 1193
+Author: txj9073
+Date: Friday, 23 October 2020 2:53:49 pm
+Message:
+added my signature
+----
+Modified : /teams/MKEA/Docs/Coversheet - MKEA.pdf
+
+Revision: 1185
+Author: txj9073
+Date: Friday, 23 October 2020 2:43:02 pm
+Message:
+added win map
+----
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/player.cpp
+
+Revision: 1180
+Author: txj9073
+Date: Friday, 23 October 2020 2:27:47 pm
+Message:
+changes to enemy stats (firerate)
+----
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+
+Revision: 1178
+Author: txj9073
+Date: Friday, 23 October 2020 2:23:38 pm
+Message:
+made bullets despawn after a while
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/bullet.cpp
+Modified : /teams/MKEA/Source/Framework/bullet.h
+
+Revision: 1174
+Author: txj9073
+Date: Friday, 23 October 2020 2:14:08 pm
+Message:
+Dev log
+----
+Modified : /teams/MKEA/Docs/Dev Log - Edward Mei.docx
+Added : /teams/MKEA/Docs/Dev Log - Edward Mei.pdf
+
+Revision: 1171
+Author: txj9073
+Date: Friday, 23 October 2020 1:57:29 pm
+Message:
+added player teleporting to spawn when touching trap, enemy or bullet.
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+
+Revision: 1169
+Author: cfq6450
+Date: Friday, 23 October 2020 1:53:14 pm
+Message:
+
+----
+Modified : /teams/MKEA/Docs/Dev log - Maaka Wong.docx
+
+Revision: 1168
+Author: ytc6501
+Date: Friday, 23 October 2020 1:52:15 pm
+Message:
+Added coversheet,
+removed devlog
+
+----
+Added : /teams/MKEA/Docs/Coversheet - MKEA.pdf
+Deleted : /teams/MKEA/Docs/Dev Log - Kieran Large.docx
+
+Revision: 1167
+Author: txj9073
+Date: Friday, 23 October 2020 1:52:15 pm
+Message:
+Added ranged enemies to each map
+----
+Modified : /teams/MKEA/Source/Framework/map.h
+
+Revision: 1162
+Author: ytc6501
+Date: Friday, 23 October 2020 1:32:48 pm
+Message:
+
+----
+Modified : /teams/MKEA/Docs/Dev Log - Kieran Large.docx
+Added : /teams/MKEA/Docs/Dev Log - Kieran Large.pdf
+Modified : /teams/MKEA/Docs/Schedule.docx
+Modified : /teams/MKEA/Todo.txt
+
+Revision: 1148
+Author: txj9073
+Date: Friday, 23 October 2020 6:27:06 am
+Message:
+bullet
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Debug/assets/invisibleBullet.png
+Modified : /teams/MKEA/Source/Debug/assets/playerbullet.png
+
+Revision: 1146
+Author: txj9073
+Date: Friday, 23 October 2020 3:35:07 am
+Message:
+fixed error
+----
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/shooterenemy.cpp
+
+Revision: 1145
+Author: txj9073
+Date: Friday, 23 October 2020 3:28:07 am
+Message:
+trying to get a timer working
+----
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+
+Revision: 1144
+Author: txj9073
+Date: Friday, 23 October 2020 3:20:07 am
+Message:
+shooter enemy
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/bullet.cpp
+Modified : /teams/MKEA/Source/Framework/bullet.h
+Added : /teams/MKEA/Source/Debug/assets/invisibleBullet.png
+Modified : /teams/MKEA/Source/Debug/assets/playerbullet.png
+Modified : /teams/MKEA/Source/Framework/shooterenemy.cpp
+Added : /teams/MKEA/Source/Debug/assets/wizard.png
+Modified : /teams/MKEA/Source/Framework/enemy.h
+Modified : /teams/MKEA/Source/Framework/shooterenemy.h
+
+Revision: 1141
+Author: cfq6450
+Date: Friday, 23 October 2020 2:55:05 am
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+
+Revision: 1129
+Author: txj9073
+Date: Friday, 23 October 2020 12:46:54 am
+Message:
+changed slime to ghost
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Added : /teams/MKEA/Source/Debug/assets/ghost1.png
+
+Revision: 1125
+Author: cfq6450
+Date: Friday, 23 October 2020 12:15:39 am
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+
+Revision: 1124
+Author: txj9073
+Date: Friday, 23 October 2020 12:11:31 am
+Message:
+removed enemymanager mentions in game.cpp
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+
+Revision: 1122
+Author: cfq6450
+Date: Thursday, 22 October 2020 11:50:34 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+
+Revision: 1117
+Author: txj9073
+Date: Thursday, 22 October 2020 11:32:30 pm
+Message:
+deleted enemymanager
+----
+Deleted : /teams/MKEA/Source/Framework/enemymanager.cpp
+Deleted : /teams/MKEA/Source/Framework/enemymanager.h
+
+Revision: 1116
+Author: cfq6450
+Date: Thursday, 22 October 2020 11:27:48 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+
+Revision: 1114
+Author: cfq6450
+Date: Thursday, 22 October 2020 11:23:35 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Added : /teams/MKEA/Source/Debug/assets/playerIdleDarkFacingLeft.png
+Added : /teams/MKEA/Source/Debug/assets/playerIdleDarkFacingRight.png
+Added : /teams/MKEA/Source/Debug/assets/playerIdleFacingLeft.png
+Added : /teams/MKEA/Source/Debug/assets/playerIdleFacingRight.png
+Added : /teams/MKEA/Source/Debug/assets/playerJumpDarkFacingLeft.png
+Added : /teams/MKEA/Source/Debug/assets/playerJumpDarkFacingRight.png
+Added : /teams/MKEA/Source/Debug/assets/playerJumpFacingLeft.png
+Added : /teams/MKEA/Source/Debug/assets/playerJumpFacingRight.png
+Added : /teams/MKEA/Source/Debug/assets/playerRunDarkFacingLeft.png
+Added : /teams/MKEA/Source/Debug/assets/playerRunDarkFacingRight.png
+Added : /teams/MKEA/Source/Debug/assets/playerRunFacingLeft.png
+Added : /teams/MKEA/Source/Debug/assets/playerRunFacingRight.png
+Modified : /teams/MKEA/Source/Framework/entity.h
+
+Revision: 1112
+Author: txj9073
+Date: Thursday, 22 October 2020 11:19:40 pm
+Message:
+
+----
+Modified : /teams/MKEA/Working Directory.txt
+
+Revision: 1111
+Author: cfq6450
+Date: Thursday, 22 October 2020 11:17:44 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Added : /teams/MKEA/Source/Framework/playerAnimationContainer.cpp
+Added : /teams/MKEA/Source/Framework/playerAnimationContainer.h
+
+Revision: 1110
+Author: cfq6450
+Date: Thursday, 22 October 2020 11:07:48 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/entity.h
+Modified : /teams/MKEA/Source/Framework/backbuffer.cpp
+
+Revision: 1106
+Author: txj9073
+Date: Thursday, 22 October 2020 10:11:33 pm
+Message:
+tried to implement gravity for enemy
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.h
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/meleeenemy.cpp
+
+Revision: 1098
+Author: txj9073
+Date: Thursday, 22 October 2020 9:17:31 pm
+Message:
+fixed error
+----
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/meleeenemy.cpp
+Deleted : /teams/MKEA/Source/Framework/Debug/Framework.log
+
+Revision: 1097
+Author: txj9073
+Date: Thursday, 22 October 2020 9:13:25 pm
+Message:
+Implemented enemy to work based on the tilemap.
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.h
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.h
+Modified : /teams/MKEA/Source/Framework/meleeenemy.cpp
+Added : /teams/MKEA/Source/Debug/assets/SlimeOrange/SlimeOrangeDark.png
+Modified : /teams/MKEA/Source/Framework/meleeenemy.h
+
+Revision: 1086
+Author: ytc6501
+Date: Thursday, 22 October 2020 5:32:36 pm
+Message:
+Added controls/instructions to main menu
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Added : /teams/MKEA/Source/Debug/assets/Buttons/controls.png
+
+Revision: 1085
+Author: ytc6501
+Date: Thursday, 22 October 2020 5:02:22 pm
+Message:
+Added Main Menu (instructions blank for now)
+Added Pause Menu
+Added Sounds (jump, trap, objective)
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Added : /teams/MKEA/Source/Debug/assets/Buttons
+Added : /teams/MKEA/Source/Debug/assets/Buttons/exitDark.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/exitLight.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/instructionsDark.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/instructionsLight.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/pause.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/playDark.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/playLight.png
+Added : /teams/MKEA/Source/Debug/assets/Buttons/title.png
+Added : /teams/MKEA/Source/Debug/assets/Sounds/jump.wav
+Added : /teams/MKEA/Source/Debug/assets/Sounds/objective.wav
+Added : /teams/MKEA/Source/Debug/assets/Sounds/trap.wav
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+
+Revision: 1076
+Author: wqr8015
+Date: Thursday, 22 October 2020 2:54:55 pm
+Message:
+added another map, traps to the map and a temp method to "respawn the player if they fall off the map. in this commit i have commited out the collision block which was causing crashes
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+
+Revision: 1071
+Author: cfq6450
+Date: Thursday, 22 October 2020 2:19:59 pm
+Message:
+
+----
+Added : /teams/MKEA/Source/Debug/assets/playerIdle.png
+Added : /teams/MKEA/Source/Debug/assets/playerIdleDark.png
+Added : /teams/MKEA/Source/Debug/assets/playerJump.png
+Added : /teams/MKEA/Source/Debug/assets/playerJumpDark.png
+Added : /teams/MKEA/Source/Debug/assets/playerRun.png
+Added : /teams/MKEA/Source/Debug/assets/playerRunDark.png
+
+Revision: 1069
+Author: cfq6450
+Date: Thursday, 22 October 2020 2:03:32 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/entity.h
+
+Revision: 1067
+Author: cfq6450
+Date: Thursday, 22 October 2020 1:30:19 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Added : /teams/MKEA/Source/Framework/animatedsprite.cpp
+Added : /teams/MKEA/Source/Framework/animatedsprite.h
+
+Revision: 1066
+Author: wqr8015
+Date: Thursday, 22 October 2020 1:27:12 pm
+Message:
+added another map and some side tiles to reduce the dill look of the map
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+Modified : /teams/MKEA/Source/Debug/assets/Mossy - TileSet.png
+Added : /teams/MKEA/Source/Debug/assets/darkCover.png
+Added : /teams/MKEA/Source/Debug/assets/tile.png
+Deleted : /teams/MKEA/Source/Debug/assets/tile1Light.png
+Deleted : /teams/MKEA/Source/Debug/assets/tile1d.png
+Deleted : /teams/MKEA/Source/Debug/assets/tile1l.png
+Deleted : /teams/MKEA/Source/Debug/assets/tile1r - Copy.png
+Deleted : /teams/MKEA/Source/Debug/assets/tile1r.png
+Added : /teams/MKEA/Source/Debug/assets/tileDark.png
+Added : /teams/MKEA/Source/Debug/assets/tileL.png
+Added : /teams/MKEA/Source/Debug/assets/tileLDark.png
+Added : /teams/MKEA/Source/Debug/assets/tileR.png
+Added : /teams/MKEA/Source/Debug/assets/tileRDark.png
+
+Revision: 1063
+Author: cfq6450
+Date: Thursday, 22 October 2020 12:58:40 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Modified : /teams/MKEA/Source/Framework/backbuffer.cpp
+Modified : /teams/MKEA/Source/Framework/backbuffer.h
+
+Revision: 1062
+Author: wqr8015
+Date: Thursday, 22 October 2020 12:26:50 pm
+Message:
+removed the map scrolling code, now the player is just reset and the next level is loaded
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+
+Revision: 1055
+Author: ytc6501
+Date: Thursday, 22 October 2020 12:12:12 am
+Message:
+Improved Ladders
+Changed Ladder Sprites
+Resized Player Class
+Edited Jump Height
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+Added : /teams/MKEA/Source/Debug/assets/ladder.png
+Added : /teams/MKEA/Source/Debug/assets/ladderDark.png
+Modified : /teams/MKEA/Source/Debug/assets/player.png
+Modified : /teams/MKEA/Source/Debug/assets/playerDark.png
+Added : /teams/MKEA/Source/Framework/Button.cpp
+Added : /teams/MKEA/Source/Framework/Button.h
+Added : /teams/MKEA/Source/Framework/Ladder.cpp
+Added : /teams/MKEA/Source/Framework/Ladder.h
+
+Revision: 1054
+Author: ytc6501
+Date: Wednesday, 21 October 2020 11:52:44 pm
+Message:
+Added Ladders
+Added PlayerMoveUp function to player class
+Added PlayerClimbing function to game class
+Set Input for climbing to W
+Moved Input for Jump to Spacebar
+Edited First Map Design
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/player.h
+
+Revision: 1046
+Author: wqr8015
+Date: Wednesday, 21 October 2020 8:29:26 pm
+Message:
+Continued to work on the map scrolling, much closer this time
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+
+Revision: 1042
+Author: ytc6501
+Date: Wednesday, 21 October 2020 6:43:53 pm
+Message:
+Edited CreateMap to handle Traps better
+TileType 4 creates a trap at that location before resetting the tileType to 0
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+Modified : /teams/MKEA/Source/Framework/tile.cpp
+Modified : /teams/MKEA/Source/Framework/tile.h
+
+Revision: 1038
+Author: wqr8015
+Date: Wednesday, 21 October 2020 4:50:07 pm
+Message:
+commented out the trap if draw statment in Game::Draw() and removed the trap(4) from the map0[],
+Seems the merge also broke the endpoint somehow i will get back to fixing it after a break
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+
+Revision: 1032
+Author: wqr8015
+Date: Wednesday, 21 October 2020 2:17:11 pm
+Message:
+Fixed the bug in the endpoint collision.working on the map scrolling, it is not yet finished, it works somewhat but not correctly, uploading as i am taking 30 min break, maybe someone else can help me troubleshoot
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/entity.h
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+
+Revision: 1031
+Author: ytc6501
+Date: Wednesday, 21 October 2020 12:28:01 pm
+Message:
+Added Traps
+Traps detect player properly
+Required: Add Player Death to trap detection
+
+Created IsCollidingWith(entity) in the entity class
+Handles collisions based on sprite size
+Switched player ground collisions to use new function
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/Debug/Framework.log
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Added : /teams/MKEA/Source/Debug/assets/trap.png
+Added : /teams/MKEA/Source/Debug/assets/trapDark.png
+Added : /teams/MKEA/Source/Framework/Debug/game.new.obj.enc
+Added : /teams/MKEA/Source/Framework/Trap.cpp
+Added : /teams/MKEA/Source/Framework/Trap.h
+Modified : /teams/MKEA/Source/Framework/torch.cpp
+
+Revision: 1029
+Author: txj9073
+Date: Wednesday, 21 October 2020 11:51:21 am
+Message:
+fixed typo
+----
+Modified : /teams/MKEA/Docs/Milestone Report.docx
+
+Revision: 1027
+Author: txj9073
+Date: Wednesday, 21 October 2020 11:37:13 am
+Message:
+Updated Schedule
+----
+Modified : /teams/MKEA/Docs/Schedule.docx
+
+Revision: 1026
+Author: ytc6501
+Date: Wednesday, 21 October 2020 11:00:12 am
+Message:
+Added Torch Max Battery
+Added SDL_TTF for HUD
+Added Battery Level Display with TTF
+Added Debugging Features (use ` to start debug mode, and 9 sets infinite battery)
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Modified : /teams/MKEA/Source/Framework/backbuffer.cpp
+Added : /teams/MKEA/Source/Framework/Debug/Framework.log
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/backbuffer.h
+Modified : /teams/MKEA/Source/Framework/torch.cpp
+Modified : /teams/MKEA/Source/Debug/SDL2.dll
+Added : /teams/MKEA/Source/Debug/SDL2_ttf.dll
+Added : /teams/MKEA/Source/Debug/assets/UniversCondensed.ttf
+Added : /teams/MKEA/Source/Debug/libfreetype-6.dll
+Modified : /teams/MKEA/Source/Framework/torch.h
+
+Revision: 1023
+Author: wqr8015
+Date: Wednesday, 21 October 2020 9:41:16 am
+Message:
+started working on the collision with the endpoint of the level, not finished yet
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Debug/assets/EndPoint/1 (1).png
+
+Revision: 1021
+Author: txj9073
+Date: Wednesday, 21 October 2020 5:00:13 am
+Message:
+prep/setup for future enemy methods
+----
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.h
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+
+Revision: 1020
+Author: txj9073
+Date: Wednesday, 21 October 2020 4:54:37 am
+Message:
+fixed enemies being cloned
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.h
+
+Revision: 1018
+Author: txj9073
+Date: Wednesday, 21 October 2020 3:41:15 am
+Message:
+enemy movement
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+
+Revision: 1017
+Author: txj9073
+Date: Wednesday, 21 October 2020 3:28:10 am
+Message:
+player tracking and following for enemy
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.h
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.h
+
+Revision: 1014
+Author: txj9073
+Date: Wednesday, 21 October 2020 3:16:03 am
+Message:
+enemy movement
+----
+Modified : /teams/MKEA/Source/Framework/enemy.cpp
+Modified : /teams/MKEA/Source/Framework/enemy.h
+
+Revision: 1013
+Author: txj9073
+Date: Wednesday, 21 October 2020 3:04:36 am
+Message:
+enemy drawing and resized image
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Added : /teams/MKEA/Source/Debug/assets/SlimeOrange/SlimeOrange.png
+
+Revision: 1012
+Author: txj9073
+Date: Wednesday, 21 October 2020 2:56:17 am
+Message:
+enemy
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.h
+
+Revision: 1011
+Author: txj9073
+Date: Wednesday, 21 October 2020 2:11:43 am
+Message:
+
+----
+Deleted : /teams/MKEA/Source/Debug/Framework.exe
+Deleted : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 1010
+Author: ytc6501
+Date: Wednesday, 21 October 2020 12:17:23 am
+Message:
+Added Torch Functions to Player
+Added new temporary sprites (light and dark) for player
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Docs/Dev Log - Kieran Large.docx
+
+Revision: 1009
+Author: cfq6450
+Date: Tuesday, 20 October 2020 11:44:12 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/player.h
+
+Revision: 1008
+Author: cfq6450
+Date: Tuesday, 20 October 2020 11:30:54 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+
+Revision: 1007
+Author: ytc6501
+Date: Tuesday, 20 October 2020 11:18:39 pm
+Message:
+Made Torch function for all Entities
+Fixed torch errors (someone had changed the torchList loop from starting at 0 to 1)
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/entity.h
+Added : /teams/MKEA/Source/Debug/assets/tile1r - Copy.png
+Added : /teams/MKEA/Source/Debug/assets/player.png
+Added : /teams/MKEA/Source/Debug/assets/playerDark.png
+Added : /teams/MKEA/Source/Debug/assets/torchDark.png
+
+Revision: 1003
+Author: wqr8015
+Date: Tuesday, 20 October 2020 9:21:22 pm
+Message:
+fixed the issue between player and tile collision was a forgotten break; in a case of a switch
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/tile.cpp
+Modified : /teams/MKEA/Source/Framework/tile.h
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 1002
+Author: cfq6450
+Date: Tuesday, 20 October 2020 8:50:49 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+
+Revision: 1001
+Author: cfq6450
+Date: Tuesday, 20 October 2020 8:33:29 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+
+Revision: 992
+Author: cfq6450
+Date: Tuesday, 20 October 2020 5:57:40 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+
+Revision: 989
+Author: ytc6501
+Date: Tuesday, 20 October 2020 4:23:43 pm
+Message:
+Added Comment in Map File
+----
+Modified : /teams/MKEA/Source/Framework/map.cpp
+
+Revision: 986
+Author: ytc6501
+Date: Tuesday, 20 October 2020 3:43:44 pm
+Message:
+Added FMOD sounds
+Current sounds are Torch on/off
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/Framework.vcxproj
+Added : /teams/MKEA/Source/Debug/assets/Sounds
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Added : /teams/MKEA/Source/Debug/assets/Sounds/torchOff.wav
+Added : /teams/MKEA/Source/Debug/assets/Sounds/torchOn.wav
+Added : /teams/MKEA/Source/Debug/fmod.dll
+
+Revision: 985
+Author: ytc6501
+Date: Tuesday, 20 October 2020 3:09:47 pm
+Message:
+Fixed Torch
+Some parts had been lost
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/torch.cpp
+Modified : /teams/MKEA/Source/Framework/texture.cpp
+Modified : /teams/MKEA/Torch Psuedo Code
+
+Revision: 984
+Author: cfq6450
+Date: Tuesday, 20 October 2020 1:42:35 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+
+Revision: 982
+Author: ytc6501
+Date: Tuesday, 20 October 2020 1:21:07 pm
+Message:
+
+----
+Modified : /teams/MKEA/Todo.txt
+
+Revision: 981
+Author: ytc6501
+Date: Tuesday, 20 October 2020 1:19:21 pm
+Message:
+Updated TODO List with Menus
+----
+Modified : /teams/MKEA/Todo.txt
+
+Revision: 980
+Author: ytc6501
+Date: Tuesday, 20 October 2020 1:18:17 pm
+Message:
+Updated Dev Log - Kieran Large
+----
+Modified : /teams/MKEA/Docs/Dev Log - Kieran Large.docx
+
+Revision: 977
+Author: wqr8015
+Date: Tuesday, 20 October 2020 12:30:52 pm
+Message:
+changed the map array to a vector so level selection is easier and quicker, you cannot simply copy array to array in c++.
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 969
+Author: cfq6450
+Date: Tuesday, 20 October 2020 3:54:00 am
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/player.h
+
+Revision: 966
+Author: cfq6450
+Date: Tuesday, 20 October 2020 12:29:13 am
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/player.h
+
+Revision: 958
+Author: wqr8015
+Date: Monday, 19 October 2020 6:01:15 pm
+Message:
+reworked how the map works its now a much simplier grid array based,
+and fixed further merge bugs
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/entity.h
+Modified : /teams/MKEA/Source/Framework/tile.cpp
+Modified : /teams/MKEA/Source/Framework/tile.h
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 953
+Author: wqr8015
+Date: Monday, 19 October 2020 1:34:23 pm
+Message:
+fixed some merge issues done by the last team member,
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 915
+Author: cfq6450
+Date: Friday, 16 October 2020 6:11:54 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/player.h
+
+Revision: 913
+Author: wqr8015
+Date: Friday, 16 October 2020 5:59:38 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+
+Revision: 912
+Author: wqr8015
+Date: Friday, 16 October 2020 5:59:10 pm
+Message:
+added posion plant, changes to maps
+----
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (10).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (11).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (12).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (13).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (14).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (15).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (16).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (17).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (18).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (19).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (2).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (20).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (21).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (22).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (23).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (24).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (25).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (26).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (27).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (28).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (29).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (3).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (30).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (31).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (32).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (33).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (34).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (35).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (36).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (37).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (38).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (39).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (4).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (40).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (41).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (42).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (43).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (44).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (45).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (46).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (47).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (48).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (49).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (5).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (50).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (51).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (52).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (53).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (54).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (55).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (56).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (57).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (58).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (59).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (6).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (60).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (7).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (8).png
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (9).png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00000.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00001.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00002.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00003.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00004.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00005.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00006.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00007.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00008.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00009.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00010.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00011.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00012.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00013.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00014.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00015.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00016.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00017.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00018.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00019.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00020.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00021.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00022.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00023.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00024.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00025.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00026.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00027.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00028.png
+Added : /teams/MKEA/Source/Debug/assets/PoisonPlant/PlantPosion_00029.png
+Added : /teams/MKEA/Source/Debug/assets/background.png
+Added : /teams/MKEA/Source/Debug/assets/backgrounddark.png
+Added : /teams/MKEA/Source/Debug/assets/sidemoss1.png
+
+Revision: 910
+Author: ytc6501
+Date: Friday, 16 October 2020 5:51:25 pm
+Message:
+Updated Todo List
+
+----
+Modified : /teams/MKEA/Todo.txt
+
+Revision: 909
+Author: ytc6501
+Date: Friday, 16 October 2020 5:49:45 pm
+Message:
+Fixed Torch error.
+Had been removed from Initialise.
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Todo.txt
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 908
+Author: txj9073
+Date: Friday, 16 October 2020 5:43:53 pm
+Message:
+Enemy & EnemyManager Modifications
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.h
+Modified : /teams/MKEA/Source/Framework/meleeenemy.h
+
+Revision: 907
+Author: ytc6501
+Date: Friday, 16 October 2020 5:26:15 pm
+Message:
+
+----
+Added : /teams/MKEA/Todo.txt
+
+Revision: 906
+Author: ytc6501
+Date: Friday, 16 October 2020 5:12:52 pm
+Message:
+Torch requires player to left click again battery ran out
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/torch.cpp
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 905
+Author: wqr8015
+Date: Friday, 16 October 2020 5:08:59 pm
+Message:
+added splash screen, dark and light versions of basic ties for torch, and basic menu method
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Added : /teams/MKEA/Source/Debug/assets/AUTlogo.png
+Added : /teams/MKEA/Source/Debug/assets/sidemoss.png
+Modified : /teams/MKEA/Source/Debug/assets/tile1.png
+Added : /teams/MKEA/Source/Debug/assets/tile1dark.png
+
+Revision: 904
+Author: ytc6501
+Date: Friday, 16 October 2020 5:06:51 pm
+Message:
+Added Torch on/off with left click
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/torch.cpp
+Modified : /teams/MKEA/Source/Framework/torch.h
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 901
+Author: wqr8015
+Date: Friday, 16 October 2020 4:19:04 pm
+Message:
+further fix
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 900
+Author: wqr8015
+Date: Friday, 16 October 2020 4:17:33 pm
+Message:
+fixing some code merge issues
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/tile.cpp
+Modified : /teams/MKEA/Source/Framework/tile.h
+Modified : /teams/MKEA/Source/Debug/Framework.exe
+Modified : /teams/MKEA/Source/Debug/Framework.ilk
+
+Revision: 897
+Author: ytc6501
+Date: Friday, 16 October 2020 2:37:13 pm
+Message:
+Added Torch Class,
+Setup Entity Class to handle light/dark states 
+Added CheckTorchLight method in Game class
+
+Torch currently only checks for collisions with the map tiles
+Detects correctly, doesn't change sprites though
+Map Class resets the sprites every time it draws
+
+TODO:
+Check all entities with torch
+Setup map class to handle light/dark states
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/entity.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.cpp
+Modified : /teams/MKEA/Source/Framework/enemymanager.h
+Modified : /teams/MKEA/Source/Framework/entity.h
+Added : /teams/MKEA/Source/Debug/assets/tile1Light.png
+Modified : /teams/MKEA/Source/Framework/torch.cpp
+Modified : /teams/MKEA/Source/Framework/torch.h
+Added : /teams/MKEA/Source/Debug/Framework.exe
+Added : /teams/MKEA/Source/Debug/Framework.ilk
+Added : /teams/MKEA/Torch Psuedo Code
+Added : /teams/MKEA/Source/Debug/assets/torch.png
+
+Revision: 882
+Author: cfq6450
+Date: Thursday, 15 October 2020 4:01:37 pm
+Message:
+
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/player.cpp
+Modified : /teams/MKEA/Source/Framework/inputhandler.cpp
+Modified : /teams/MKEA/Source/Framework/player.h
+Modified : /teams/MKEA/Source/Framework/inputhandler.h
+
+Revision: 880
+Author: wqr8015
+Date: Thursday, 15 October 2020 3:57:00 pm
+Message:
+altered the map files, added to the game a sprite which will act as the end of level marker and started working on animating it
+----
+Modified : /teams/MKEA/Source/Framework/game.cpp
+Modified : /teams/MKEA/Source/Framework/game.h
+Modified : /teams/MKEA/Source/Framework/map.h
+Modified : /teams/MKEA/Docs/Dev Log - Adriaan Bosch.docx
+Modified : /teams/MKEA/Source/Framework/map.cpp
+Added : /teams/MKEA/Source/Debug/assets/EndPoint
+Added : /teams/MKEA/Source/Debug/assets/EndPoint/1 (1).png
+

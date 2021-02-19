@@ -1,0 +1,44 @@
+Torch:
+	Sprite = crosshair
+	bool isOn
+	float batteryLevel
+	float depleteRate
+	float restoreRate
+	float radius
+	
+	Process()
+		moveToMouse
+		
+		if(isOn)
+			batteryLevel - depleteRate
+		else
+			batteryLevel + restoreRate
+
+InputHandler:
+	leftclick Down
+		game.torch->setOn(true)
+	
+	leftclick Up
+		game.torch->setOff(true)
+		
+Game:
+	Process()
+		Torch->Process()
+		checkTorchLight()
+	
+	CheckTorchLight()
+		for(entityList)
+			if(((entityX-TorchX)*(entityX-TorchX) + (entityY-TorchY)*(entityY-TorchY)) < r*r);
+				entity->setIsLit(true)
+			else
+				entity->setIsLit(false)
+				
+	Draw()
+		drawTorch
+				
+Entity:
+	Process()
+		if(isLit)
+			initialise(lightSprite)
+		else
+			intiialise(darkSprite)
